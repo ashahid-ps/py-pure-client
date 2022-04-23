@@ -72,6 +72,16 @@ FlashArray REST 2.10 Client
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. autoclass:: pypureclient.flasharray.FA_2_10.client.Client
+
+FlashArray REST 2.11 Client
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.FA_2_11.client.Client
+
+FlashArray REST 2.13 Client
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.FA_2_13.client.Client
     :members:
 
 Properties
@@ -864,6 +874,12 @@ PodArrayStatus
 .. autoclass:: pypureclient.flasharray.PodArrayStatus
    :members:
 
+PodEradicationConfig
+~~~~~~~~~~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.PodEradicationConfig
+   :members:
+
 PodPatch
 ~~~~~~~~
 
@@ -1110,6 +1126,12 @@ ProtectionGroup
 .. autoclass:: pypureclient.flasharray.ProtectionGroup
    :members:
 
+ProtectionGroupEradicationConfig
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.ProtectionGroupEradicationConfig
+   :members:
+
 ProtectionGroupPerformance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1324,6 +1346,42 @@ RetentionPolicy
 ~~~~~~~~~~~~~~~
 
 .. autoclass:: pypureclient.flasharray.RetentionPolicy
+   :members:
+
+Saml2Sso
+~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.Saml2Sso
+   :members:
+
+Saml2SsoIdp
+~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.Saml2SsoIdp
+   :members:
+
+Saml2SsoPatch
+~~~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.Saml2SsoPatch
+   :members:
+
+Saml2SsoPost
+~~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.Saml2SsoPost
+   :members:
+
+Saml2SsoSp
+~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.Saml2SsoSp
+   :members:
+
+Saml2SsoSpCredential
+~~~~~~~~~~~~~~~~~~~~
+
+.. autoclass:: pypureclient.flasharray.Saml2SsoSpCredential
    :members:
 
 Session

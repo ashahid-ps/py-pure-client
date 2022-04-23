@@ -7,6 +7,8 @@ from . import FA_2_10
 from . import FA_2_6
 from . import FA_2_4
 from . import FA_2_9
+from . import FA_2_13
+from . import FA_2_11
 from . import FA_2_1
 from . import FA_2_3
 from . import FA_2_5
@@ -20,6 +22,8 @@ fa_modules = {
     '2.6': FA_2_6,
     '2.4': FA_2_4,
     '2.9': FA_2_9,
+    '2.13': FA_2_13,
+    '2.11': FA_2_11,
     '2.1': FA_2_1,
     '2.3': FA_2_3,
     '2.5': FA_2_5,
